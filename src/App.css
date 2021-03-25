@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+}
+.top-curve{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.bottom-curve{
+  height: 75%;
+}
+
+.card{
+  margin-top: 50px;
+}
+
+.top-curve{
+  display: flex;
+  flex-direction: column;
+}
+.page-heading{
+  color:#0099ff;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.bottom-curve{
+  height: 75%;
+}
+
+.button{
+  text-align: center;
+}
+.heading{
+  background-color:#0099ff;
+  color: white;
+  text-align: center;
+  
+}
+.video-first-col{
+  background-color: #0099ff;
+  margin-left: 1.25rem;
+  width: 50%;
+  color: white;
+}
+.video-first-col h2{
+  text-align: center;
+
+}
+
+.gif-box{
+  border:5px solid black;
+  margin-top: 5rem;
+  height: 200px;
+}
+
+.gif-box-call{
+  margin-top: 5rem;
+  /* margin-left: 1rem; */
+  height: 200px;
+}
+.gif-box-call div{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 1rem;
+  text-align: center;
+  font-size: 25pt;
+}
+
+.video-second-col{
+  background-color: black;
+  color: white;
+}
+
+
+
+.video-text{
+  text-align: center;
+  margin-top: 8rem;
+  margin-bottom: 4rem;
+  font-size: 30pt;
+}
+
+.call-contact{
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.video-third-col{
+  background-color: #0099ff;
+  /* margin-right: 1.25rem; */
+  width:50%;
+}
+.contact-list{  
+  color: white;
+  
+}
+
+.contact-list h2{
+  text-align: center;
+
+}
+.contact-list h3{
+  text-align: center;
+}
+
+
+
+
+
+
